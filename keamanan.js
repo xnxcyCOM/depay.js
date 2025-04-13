@@ -1,16 +1,7 @@
-[
-  "6281257180104@s.whatsapp.net",
-  "6282298243812@s.whatsapp.net",
-  "6281258479451@s.whatsapp.net", 
-  "6285119354614@s.whatsapp.net", 
-  "6281295008667@s.whatsapp.net", 
-  "6283851377612@s.whatsapp.net", 
-  "6287831721997@s.whatsapp.net", 
-  "6287829343589@s.whatsapp.net", 
-  "6283153721833@s.whatsapp.net", 
-  "6283821294666@s.whatsapp.net", 
-  "62882008003072@s.whatsapp.net", 
-  "62881038448153@s.whatsapp.net",  
-  "6285819778360@s.whatsapp.net",
-  "6283865671583@s.whatsapp.net"           
-]
+{
+  "dbny": [
+    "6282224372430",
+    "6282120375596", 
+    "6283138188160"
+  ]
+}
