@@ -1,1 +1,0 @@
-# depay.js
