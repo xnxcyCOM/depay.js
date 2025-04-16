@@ -1,6 +1,6 @@
 {
 
-  "secretCode": "depayj",
+  "secretCode": "depay",
 
   "description": "NIKA VERSION 6 Vvip", 
 
