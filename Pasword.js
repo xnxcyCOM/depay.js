@@ -1,6 +1,6 @@
 {
 
-  "secretCode": "nikaversion6",
+  "secretCode": "sebar = hama",
 
   "description": "NIKA VERSION 6 Vvip", 
 
